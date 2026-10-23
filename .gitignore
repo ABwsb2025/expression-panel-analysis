@@ -1,0 +1,19 @@
+# Never commit data or results
+*.txt
+*.tsv
+*.csv
+*.xlsx
+*.png
+*.pdf
+*.pptx
+results/
+data/
+
+# R session files (can contain loaded data)
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
